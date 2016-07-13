@@ -1,2 +1,2 @@
 
-会员管理系统 featur
+会员管理系统 feature
